@@ -1,1 +1,1 @@
-Git test not fun at all
+Test Java project with git rebase
